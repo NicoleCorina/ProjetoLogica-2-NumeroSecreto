@@ -1,5 +1,5 @@
 let parágrafo = document.querySelector('p');
-parágrafo.innerHTML = 'Escolha um número entre 1 e 10';
+parágrafo.innerHTML = 'Escolha um número entre 1 e 100';
 
 function exibirTextoNaTela(tag, texto){
     let campo = document.querySelector(tag);
